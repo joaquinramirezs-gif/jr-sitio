@@ -1,0 +1,13 @@
+.DS_Store
+*/.DS_Store
+**/.DS_Store
+
+# Originales de cámara — no se publican
+*.HEIC
+*.heic
+
+# Material de pacientes — fuera del repo mientras el consentimiento
+# no cubra publicidad ni galería antes-después (ver CLAUDE.md, 10/08/2026)
+fotos/casos/
+publicar/fotos/casos/
+redes/
